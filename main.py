@@ -12,6 +12,7 @@
 # Description: Ce fichier contient les fonctions et les résultats de la
 # partie 2 du DM 6 de physique. Le programme affiche le graphique représentant
 # la tension en sortie de l'onduleur en fonction du temps.
+# DM par Nino ALAPETITE et Antoine CHEUCLE
 ############################################
 
 #Importation des modules externes
