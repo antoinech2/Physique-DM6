@@ -7,7 +7,7 @@
 # Encodage: UTF-8
 # Licence: GNU General Public License 3.0 (licence libre)
 # Version: Release 1.0.1
-# GitHub Repository : https://github.com/antoinech2/DM8-partie-E
+# GitHub Repository : https://github.com/antoinech2/Physique-DM6
 #
 # Description: Ce fichier contient les fonctions et les résultats de la
 # partie 2 du DM 6 de physique. Le programme affiche le graphique représentant
